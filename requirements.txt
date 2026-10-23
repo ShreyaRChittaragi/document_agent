@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-docx
+httpx
+pydantic>=2
